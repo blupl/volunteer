@@ -1,0 +1,13 @@
+{
+    "name": "Volunteer",
+    "description": "Volunteer Extension",
+    "author": "Ahsanul Kabir",
+    "url": "https://github.com/",
+    "version": "1.0.0",
+    "config": {
+        "handles": "Volunteer"
+    },
+    "provides": [
+        "Blupl\\Volunteer\\VolunteerServiceProvider"
+    ]
+}
